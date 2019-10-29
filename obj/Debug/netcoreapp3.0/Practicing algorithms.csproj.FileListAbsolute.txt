@@ -1,0 +1,11 @@
+/Users/mikevanamburg/Projects/Practicing algorithms/bin/Debug/netcoreapp3.0/Practicing algorithms
+/Users/mikevanamburg/Projects/Practicing algorithms/bin/Debug/netcoreapp3.0/Practicing algorithms.deps.json
+/Users/mikevanamburg/Projects/Practicing algorithms/bin/Debug/netcoreapp3.0/Practicing algorithms.runtimeconfig.json
+/Users/mikevanamburg/Projects/Practicing algorithms/bin/Debug/netcoreapp3.0/Practicing algorithms.runtimeconfig.dev.json
+/Users/mikevanamburg/Projects/Practicing algorithms/bin/Debug/netcoreapp3.0/Practicing algorithms.dll
+/Users/mikevanamburg/Projects/Practicing algorithms/bin/Debug/netcoreapp3.0/Practicing algorithms.pdb
+/Users/mikevanamburg/Projects/Practicing algorithms/obj/Debug/netcoreapp3.0/Practicing algorithms.csprojAssemblyReference.cache
+/Users/mikevanamburg/Projects/Practicing algorithms/obj/Debug/netcoreapp3.0/Practicing algorithms.AssemblyInfoInputs.cache
+/Users/mikevanamburg/Projects/Practicing algorithms/obj/Debug/netcoreapp3.0/Practicing algorithms.AssemblyInfo.cs
+/Users/mikevanamburg/Projects/Practicing algorithms/obj/Debug/netcoreapp3.0/Practicing algorithms.dll
+/Users/mikevanamburg/Projects/Practicing algorithms/obj/Debug/netcoreapp3.0/Practicing algorithms.pdb
